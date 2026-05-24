@@ -1,0 +1,8 @@
+{
+  "name": "Reach",
+  "description": "The elite influencer marketplace for businesses to search, hire, and manage top talent with live engagement analytics, secure escrow payments, and Gemini AI video sentiment analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
